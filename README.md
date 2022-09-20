@@ -2,10 +2,10 @@
 
 This is a starter template for [Learn Next.js](https://nextjs.org/learn).
 
-##Setup
+## Setup
 This was constructed with Next.js, React.js, HTML, and CSS modules.
 
-##Project
+## Project
 https://nextjs-blog-ddk6acs9f-vmaineng.vercel.app/
 
 
